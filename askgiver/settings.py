@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     #apps
     'rest_framework',
-    'auth'
+    # 'auth'
 ]
 
 MIDDLEWARE = [
