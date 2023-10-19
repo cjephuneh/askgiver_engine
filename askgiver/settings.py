@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'authorization',
     'products',
     'csrinitiative',
+    'useraccount',
 ]
 
 MIDDLEWARE = [
