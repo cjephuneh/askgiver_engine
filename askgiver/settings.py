@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #apps
     'rest_framework',
     'authorization',
+    'products',
 ]
 
 MIDDLEWARE = [
