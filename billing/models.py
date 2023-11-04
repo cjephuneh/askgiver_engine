@@ -1,3 +1,5 @@
 from django.db import models
 
-# Create your models here.
+class Subscription(models.Model):
+    # Define your subscription-related fields here
+    pass

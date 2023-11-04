@@ -42,8 +42,9 @@ INSTALLED_APPS = [
     'rest_framework',
     'authorization',
     'products',
-    'csrinitiative',
     'useraccount',
+    'billing',
+    
 ]
 
 MIDDLEWARE = [
